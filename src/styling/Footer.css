@@ -1,0 +1,16 @@
+#footer{
+    color: white;
+    background: #2c3e50;
+    padding: 10px 0;
+  }
+  #social-icon{
+    list-style: none;
+    color: white;
+    margin: 0;
+    padding: 0;
+  }
+  #social-icon svg{
+    display: inline-block;
+    padding-left: 10px; 
+    color: yellowgreen;
+  }
